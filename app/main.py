@@ -1,3 +1,4 @@
+## Version: 1.1 - Triggered by Jenkins
 from fastapi import FastAPI
 import psycopg2
 from opentelemetry import trace
